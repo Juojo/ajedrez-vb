@@ -1,0 +1,58 @@
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Alumno\Documents\Visual Studio 2010\Projects\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\piromalli nahele\TP_FINAL\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\PIROOOO\tablero_vb_2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\miVersion\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.AssemblyReference.cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+E:\Lab. paradigmas orientados a objetos\TP_FINAL\01.11\versionesCombinadas\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
